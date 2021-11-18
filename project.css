@@ -106,7 +106,7 @@ img {
 
 #imagelist{
   font-size: 0; 
-  width: 1000px;
+  width: 936px;
   margin: 0 auto;
 
 }
@@ -123,11 +123,13 @@ img {
 #imagelist a:hover{
   border-color: white;
   border-radius: 6px;
+  -webkit-border-radius: 6px;
   opacity: 1;
 }
 
 #imagelist img{
   border-radius: 6px;
+  -webkit-border-radius: 6px;
 }
 
 th {
